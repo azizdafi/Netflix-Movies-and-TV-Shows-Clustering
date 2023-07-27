@@ -1,6 +1,6 @@
 # Netflix-Movies-and-TV-Shows-Clustering
 
-[Netflix-Logo](https://github.com/azizdafi/Netflix-Movies-and-TV-Shows-Clustering/assets/17454061/a5190484-b268-4976-9c87-43d4c275a842)
+![Netflix-Logo](https://github.com/azizdafi/Netflix-Movies-and-TV-Shows-Clustering/assets/17454061/a5190484-b268-4976-9c87-43d4c275a842)
 
 This dataset consists of tv shows and movies available on Netflix as of 2019. The dataset is collected from Flixable which is a third-party Netflix search engine.
 
